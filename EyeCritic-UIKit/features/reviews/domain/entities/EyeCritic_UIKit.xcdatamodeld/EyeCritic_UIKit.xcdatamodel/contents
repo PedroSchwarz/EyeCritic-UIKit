@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="18154" systemVersion="20G80" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ReviewData" representedClassName="ReviewData" syncable="YES" codeGenerationType="class">
+        <attribute name="byline" optional="YES" attributeType="String"/>
+        <attribute name="display_title" optional="YES" attributeType="String"/>
+        <attribute name="favorite" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="headline" optional="YES" attributeType="String"/>
+        <attribute name="imageUrl" optional="YES" attributeType="String"/>
+        <attribute name="link" optional="YES" attributeType="String"/>
+        <attribute name="mpaa_rating" optional="YES" attributeType="String"/>
+        <attribute name="publication_date" optional="YES" attributeType="String"/>
+        <attribute name="summary_short" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="ReviewData" positionX="-63" positionY="-18" width="128" height="164"/>
+    </elements>
+</model>
